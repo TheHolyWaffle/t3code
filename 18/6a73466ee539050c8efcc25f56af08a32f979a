@@ -1,0 +1,42 @@
+apps/server/src/orchestration-v2/pullRequestWatch.test.ts
+  s_4744ffacdc9084::t_92af10f0b2c8f8 805-809
+  s_4744ffacdc9084::t_629b925bba686a 803-804,810-840,843-864,867-883
+  s_4744ffacdc9084::t_3a013b088860c9 884
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_4744ffacdc9084::t_12e0e0b839afd2 4864-4866
+packages/contracts/src/pullRequest.ts
+  s_4744ffacdc9084::t_0cd922cf372f3a 654-655
+apps/server/src/orchestration-v2/pullRequestWatch.ts
+  s_4744ffacdc9084::t_4bf581afdf325e 6,11,25-30,56,232-242,261,336-343,355,421-427,435-439
+apps/server/src/pullRequest/PullRequestService.ts
+  s_4744ffacdc9084::t_0cd922cf372f3a 1883-1885
+packages/source-control-gitlab/src/server/GitLabPullRequestProvider.test.ts
+  s_4744ffacdc9084::t_f6b41767d8d32a 116,227-228,245,279-296
+  s_4744ffacdc9084::t_ce9af79f5b6595 297-299
+packages/source-control-gitlab/src/server/GitLabPullRequestProvider.ts
+  s_4744ffacdc9084::t_2979e0507ac2ed 362-367,369,372
+  s_4744ffacdc9084::t_1b66e0ed90c0e1 374,688-694
+  s_4744ffacdc9084::t_c6a783ea02c28b 695
+apps/server/src/orchestration-v2/PullRequestWatchReactor.ts
+  s_4744ffacdc9084::t_4bf581afdf325e 212
+packages/contracts/src/threadPullRequest.ts
+  s_4744ffacdc9084::t_0cd922cf372f3a 102-103
+docs/user/source-control.md
+  s_4744ffacdc9084::t_e7ff8dc517775e 330-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "186a73466ee539050c8efcc25f56af08a32f979a",
+  "prompts": {},
+  "sessions": {
+    "s_4744ffacdc9084": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "361dd83a-842a-4a61-95c4-d95cb03b2e78",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "bert.degeyter <bert.degeyter@showpad.com>"
+    }
+  }
+}
