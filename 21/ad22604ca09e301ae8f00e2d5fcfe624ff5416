@@ -1,0 +1,21 @@
+apps/server/src/pullRequest/PullRequestService.ts
+  s_4744ffacdc9084::t_77a224a01b7ded 3299,3301
+apps/server/src/pullRequest/PullRequestService.test.ts
+  s_4744ffacdc9084::t_77a224a01b7ded 3440-3446,3468,3482
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "21ad22604ca09e301ae8f00e2d5fcfe624ff5416",
+  "prompts": {},
+  "sessions": {
+    "s_4744ffacdc9084": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "361dd83a-842a-4a61-95c4-d95cb03b2e78",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "bert.degeyter <bert.degeyter@showpad.com>"
+    }
+  }
+}
