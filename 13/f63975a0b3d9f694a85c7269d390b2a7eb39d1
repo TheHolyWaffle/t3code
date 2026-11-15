@@ -1,0 +1,62 @@
+packages/source-control-gitlab/src/server/GitLabPullRequestProvider.ts
+  s_4744ffacdc9084::t_cbb57b338131a3 154-159,161,221-224,373,379
+  s_4744ffacdc9084::t_2979e0507ac2ed 375,378
+  s_4744ffacdc9084::t_3d8d77b5a1eca3 131
+  s_4744ffacdc9084::t_6cf6fa236fbe0b 160,495-509,512-516
+  s_4744ffacdc9084::t_873a5190d4d4e0 132-141
+  s_4744ffacdc9084::t_b46b2595e534b6 510
+docs/user/source-control.md
+  s_4744ffacdc9084::t_e7ff8dc517775e 330-331
+packages/contracts/src/pullRequest.ts
+  s_4744ffacdc9084::t_0cd922cf372f3a 657-658
+apps/server/src/orchestration-v2/pullRequestWatch.ts
+  s_4744ffacdc9084::t_4bf581afdf325e 6,11,26-30,57,238-241,243-244,264,348,448-450,452
+  s_4744ffacdc9084::t_8e6e3a25b413ce 242,296-302,349,353-366,369-374,451
+  s_4744ffacdc9084::t_390dd518253c5c 440
+apps/server/src/pullRequest/PullRequestService.test.ts
+  s_4744ffacdc9084::t_77a224a01b7ded 3446-3452,3476,3492
+apps/server/src/pullRequest/PullRequestService.ts
+  s_4744ffacdc9084::t_77a224a01b7ded 3330,3332
+  s_4744ffacdc9084::t_0cd922cf372f3a 1903-1905
+apps/server/src/orchestration-v2/Orchestrator.ts
+  s_4744ffacdc9084::t_12e0e0b839afd2 5082-5084
+packages/source-control-github/src/server/gitHubPullRequestJson.test.ts
+  s_4744ffacdc9084::t_390dd518253c5c 1780,1785,1836-1839
+packages/contracts/src/threadPullRequest.ts
+  s_4744ffacdc9084::t_0cd922cf372f3a 104-105
+apps/server/src/orchestration-v2/pullRequestWatch.test.ts
+  s_4744ffacdc9084::t_92af10f0b2c8f8 858-862
+  s_4744ffacdc9084::t_629b925bba686a 849,863-865,871-875,882-889,898,900-908,911-921,923-926
+  s_4744ffacdc9084::t_3cead0f3fa28c1 893-897
+  s_4744ffacdc9084::t_3a013b088860c9 927
+  s_4744ffacdc9084::t_8e6e3a25b413ce 850-857,866-870,876-881,892,899,922
+packages/source-control-github/src/server/pullRequestBatches.graphql.ts
+  s_4744ffacdc9084::t_fdd0c110dec293 382-383,414
+apps/server/src/orchestration-v2/PullRequestWatchReactor.ts
+  s_4744ffacdc9084::t_4bf581afdf325e 218
+packages/source-control-gitlab/src/server/GitLabPullRequestProvider.test.ts
+  s_4744ffacdc9084::t_ce9af79f5b6595 297-299
+  s_4744ffacdc9084::t_f6b41767d8d32a 116,227-228,245,279-296
+apps/server/src/orchestration-v2/runtimeLayer.test.ts
+  s_4744ffacdc9084::t_3cead0f3fa28c1 5420-5426,5438-5439
+packages/source-control-github/src/server/pullRequestBatches.graphql
+  s_4744ffacdc9084::t_20d08c19740e10 99-100
+packages/source-control-github/src/server/gitHubPullRequestJson.ts
+  s_4744ffacdc9084::t_20d08c19740e10 1015
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "13f63975a0b3d9f694a85c7269d390b2a7eb39d1",
+  "prompts": {},
+  "sessions": {
+    "s_4744ffacdc9084": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "361dd83a-842a-4a61-95c4-d95cb03b2e78",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "bert.degeyter <bert.degeyter@showpad.com>"
+    }
+  }
+}
